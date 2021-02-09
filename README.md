@@ -3,6 +3,6 @@
 
 #### Achyutha Onti Srinivasan
 
-:email:      achyuthontisrinivasan@gmail.com
+:email:   :   achyuthontisrinivasan@gmail.com
 
-:information_source:       [LinkedIn](https://www.linkedin.com/in/achyutha-onti-srinivasan/)
+:information_source:    :   [LinkedIn](https://www.linkedin.com/in/achyutha-onti-srinivasan/)
