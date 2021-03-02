@@ -1,8 +1,6 @@
 ### A-0-5
 ----------------------------------------------
 
-#### Achyutha Onti Srinivasan
+#### :man_office_worker:    :   Achyutha Onti Srinivasan
 
-:email:   :   achyuthontisrinivasan@gmail.com
-
-:information_source:    :   [LinkedIn](https://www.linkedin.com/in/achyutha-onti-srinivasan/)
+:e-mail:   :   achyutha.os@vittindia.com
